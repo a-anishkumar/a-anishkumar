@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anish 👋
 
-<!--
-**a-anishkumar/a-anishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Design student at Kongu Engineering College (Class of 2027), focused on full-stack development.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java, C, SQL  
+**Web:** React, Node.js  
+**Interests:** Full-stack development, data structures & algorithms
+
+## 🚀 Currently
+
+- Building projects with React + Node.js
+- Strengthening DSA fundamentals (Arrays, Hash Tables, Dynamic Programming)
+
+## 📫 Reach me
+
+- LinkedIn: [anishkumar-a-b751b5337](https://linkedin.com/in/anishkumar-a-b751b5337)
+- LeetCode: [Anish_kumar_A](https://leetcode.com/u/Anish_kumar_A/)
+
+---
+⭐️ Open to internship opportunities and collaborative projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-anishkumar&show_icons=true&theme=default&hide_border=true)
