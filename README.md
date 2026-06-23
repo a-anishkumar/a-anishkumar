@@ -122,6 +122,16 @@
 
 ---
 
+## 🧩 LEETCODE STATS
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anish_kumar_A?theme=dark&font=Fira%20Code&ext=heatmap&border=1&border_color=00fff5&background=0d0d0d)
+
+</div>
+
+---
+
 ## 🏆 TROPHIES
 
 <div align="center">
